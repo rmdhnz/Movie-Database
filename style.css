@@ -1,0 +1,19 @@
+.search-button:hover {
+  background-color: orange;
+}
+.logo {
+  transition: 0.5s;
+}
+nav a img {
+  transition: 0.5s;
+}
+nav a img:hover {
+  transform: rotate(15deg) scale(1.1);
+}
+body {
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+.judul h1 {
+  text-shadow: 2px 2px 4px #000000;
+}
